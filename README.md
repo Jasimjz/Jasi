@@ -51,7 +51,7 @@
 
 # 🀄 Deploy To Heroku >>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jasimjz/jas)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jasimjz/jasi)
 
 <br>
 
